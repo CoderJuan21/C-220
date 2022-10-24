@@ -120,8 +120,8 @@ video {
   -moz-transform: rotateY(180deg);
 }
 
-.background_red{
-  background-color:#f64848
+.background_lime{
+  background-color:#a4db3d
 }
 
 @media (max-width: 700px) {
